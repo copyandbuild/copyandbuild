@@ -34,6 +34,6 @@
 
 <a href = "https://youtube.com/@moozylMinecraft"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
 <a href = "https://twitch.tv/gesehener"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
-<a href = "<https://discord.com/users/1166143696190836817>"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
+<a href = "https://discord.com/users/1166143696190836817"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 
 </p>
