@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm copyandbuild!</h1>
-<h3 align="center">I'm Developer</h3>
+<h3 align="center">I'm a Python Developer</h3>
 
 <br>
 
