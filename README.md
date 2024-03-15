@@ -15,7 +15,7 @@
 
 ## 🚀〣 Languages and Tools:
 
-![](https://skillicons.dev/icons?i=java,python,html,css,javascript,github,discord,bots)
+[![](https://skillicons.dev/icons?i=java,python,html,css,javascript,github,discord,bots)](moozyl.github.io/)
 
 <br/>
 
