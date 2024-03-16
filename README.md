@@ -11,7 +11,7 @@
 
 - 🌱│ I’m currently learning **Kotlin / Skript / C#**
 
-- 🎥│ I also have a **[YouTube](https://youtube.com/@moozylMinecraft)** channel with nice Minecraft Content
+- 🎥│ I also have a **[YouTube](https://youtube.com/channel/UCfQxgjxLgl6qF8t6R93BaNQ)** channel with nice Minecraft Content
 
 ## 🚀〣 Languages and Tools:
 
