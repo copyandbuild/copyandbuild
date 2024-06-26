@@ -3,7 +3,7 @@
 </p>
 
 <h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm copyandbuild!</h1>
-<h3 align="center">I'm a Python Developer</h3>
+<h3 align="center">I'm a Back-End Developer</h3>
 
 <br>
 
@@ -15,7 +15,7 @@
 
 ## 🚀〣 Languages and Tools:
 
-[![](https://skillicons.dev/icons?i=java,python,html,css,javascript,github,discord,bots)](https://moozyl.github.io/)
+[![](https://skillicons.dev/icons?i=java,python,html,css,javascript,github,discord,bots)](https://copyandbuild.github.io/)
 
 <br/>
 
@@ -23,17 +23,16 @@
 
   <br/>
     <p float="above">
-    <a href="https://github.com/copyandbuild/github-readme-stats"><img alt="copyandbuild's Github Stats" src="https://github-readme-stats.vercel.app/api?username=copyandbuild&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/copyandbuild/github-readme-stats"><img alt="Github Stats" src="https://github-readme-stats.vercel.app/api?username=copyandbuild&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
     
-  <a href="https://github.com/copyandbuild/github-readme-stats"><img alt="copyandbuild's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copyandbuild&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
+  <a href="https://github.com/copyandbuild/github-readme-stats"><img alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=copyandbuild&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
     </p>
     <br/>
 
 ## 💻〣 Socials
 <p align="left">
 
-<a href = "https://youtube.com/@moozylMinecraft"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
-<a href = "https://twitch.tv/gesehener"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
-<a href = "https://discord.com/users/1166143696190836817"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
-
+<a href = "https://youtube.com/@larrox"><img src="https://img.icons8.com/fluent/48/000000/youtube.png"/></a>
+<a href = "https://twitch.tv/knckeLive"><img src="https://img.icons8.com/fluent/48/000000/twitch.png"/></a>
+<a href = "https://discord.com/users/1143510845368832111/"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
 </p>
