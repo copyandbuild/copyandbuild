@@ -1,21 +1,25 @@
 <p align="center">
-<a href="#"><img width="30%" height="auto" src="https://cdn.discordapp.com/attachments/985551183479463998/1001856009670758470/coding2.gif" height="175px"/></a>
+<a href="#"><img width="30%" height="30%" src="https://i.imgur.com/9PY3XG3.gif" height="40px"/></a>
 </p>
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm copyandbuild!</h1>
-<h3 align="center">I'm a Back-End Developer</h3>
+<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Larrox.</h1>
+<h2 align="center">I'm a Back-End Developer</h2>
 
 <br>
 
-## 🔎〣 About Me
+## 🚀〣 Projects that i manage:
 
-- 🌱│ I’m currently learning **Kotlin / Skript / C#**
+<h3 align="left">FlxwerNetwork</h3>
 
-- 🎥│ I also have a **[YouTube](https://youtube.com/channel/UCfQxgjxLgl6qF8t6R93BaNQ)** channel with nice Minecraft Content
+[![](https://skillicons.dev/icons?i=discord)](https://discord.gg/larrox)
+
+<br/>
+
+<br>
 
 ## 🚀〣 Languages and Tools:
 
-[![](https://skillicons.dev/icons?i=java,python,html,css,javascript,github,discord,bots)](https://copyandbuild.github.io/)
+[![](https://skillicons.dev/icons?i=kotlin,java,python,html,css,javascript,github,git,gitlab,discord,bash,cs,gradle,maven,idea,vscode,windows,pycharm&perline=7)](https://copyandbuild.github.io/)
 
 <br/>
 
