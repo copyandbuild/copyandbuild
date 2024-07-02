@@ -9,7 +9,7 @@
 
 ## 🚀〣 Projects that i manage:
 
-<h3 align="left">FlxwerNetwork</h3>
+<h3 align="left">My Discord</h3>
 
 [![](https://skillicons.dev/icons?i=discord)](https://discord.gg/larrox)
 
