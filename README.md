@@ -12,16 +12,20 @@
 <h3 align="left">My Discord</h3>
 
 [![](https://skillicons.dev/icons?i=discord)](https://discord.gg/larrox)
-
 <br/>
-
 <br>
+## 🚀〣 Coding-Langs:
 
-## 🚀〣 Languages and Tools:
+[![](https://skillicons.dev/icons?i=kotlin,java,python,html,css,javascript,cs&perline=7)](https://copyandbuild.github.io/)
 
-[![](https://skillicons.dev/icons?i=kotlin,java,python,html,css,javascript,github,git,gitlab,discord,bash,cs,gradle,maven,idea,vscode,windows,pycharm&perline=7)](https://copyandbuild.github.io/)
+### 📖〣 Coding-Langs (that i learn):
+
+[![How did you get here?](https://skillicons.dev/icons?i=lua&perline=7)](https://copyandbuild.github.io/)
 
 <br/>
+### 🔨〣 Tools:
+
+[![How did you get here?](https://skillicons.dev/icons?i=github,git,gitlab,discord,bash,gradle,maven,idea,vscode,windows,pycharm,ubuntu,kali,linux,redhat)](https://copyandbuild.github.io/)
 
 ## 📈〣 Github Stats
 
