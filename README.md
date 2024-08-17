@@ -10,16 +10,10 @@
 ## 🚀〣 Coding Languages:
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=kotlin,java,python,html,css,javascript" alt="coding languages icons" width="300px"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,python,html,css,javascript,cs,cpp" alt="coding languages icons" width="300px"/>
   </a>
 </p>
 
-## 📖〣 Learning:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=lua" alt="learning icon" width="50px"/>
-  </a>
-</p>
 
 ## 🔨〣 Tools:
 <p align="center">
