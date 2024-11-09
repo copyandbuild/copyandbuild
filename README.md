@@ -10,8 +10,8 @@
 ## 🚀〣 Coding Languages:
 <p align="center">
   <a>
-    <img src="https://skillicons.dev/icons?i=kotlin,java,python,html,css,javascript,cs,cpp,powershell,rust" alt="coding languages icons" width="300px"/>
-    <img src="https://i.imgur.com/3td2OUr.png" alt="pas" width="25px"/>
+    <img src="https://skillicons.dev/icons?i=kotlin,java,python,html,css,javascript,cs,cpp,powershell,rust" alt="coding languages icons" width="450px"/>
+    <img src="https://i.imgur.com/3td2OUr.png" alt="pas" width="40px"/>
   </a>
 </p>
 
