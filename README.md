@@ -1,35 +1,39 @@
-<p align="center">
-  <a href="#"><img width="10%" height="10%" src="https://i.imgur.com/9PY3XG3.gif" alt="wave gif"/></a>
-</p>
+<img src="https://komarev.com/ghpvc/?username=copyandbuild&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" align="right" />
 
-<h1 align="center">Hey <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" height="30px">, I'm Larrox.</h1>
-<h2 align="center"> » I'm a Backend Developer « </h2>
+# 👋 Hi there, I'm **copyandbuild** (Larrox)
 
-<br>
+I’m a **Discord Bot** and **Minecraft Plugin/Software Developer** from **Germany**. I create amazing bots, plugins, and software solutions to make your gaming experience better!
 
-## 🚀〣 Coding Languages:
-<p align="center">
-  <a>
-    <img src="https://skillicons.dev/icons?i=kotlin,java,python,html,css,javascript,cs,cpp,powershell,rust" alt="coding languages icons" width="450px"/>
-    <img src="https://i.imgur.com/3td2OUr.png" alt="pas" width="40px"/>
-  </a>
-</p>
+## 💻 Technologies & Tools
+[![](https://skillicons.dev/icons?i=py)](https://python.org/ "Python")
+[![](https://skillicons.dev/icons?i=html)](## "HTML")
+[![](https://skillicons.dev/icons?i=css)](## "CSS")
+[![](https://skillicons.dev/icons?i=js)](## "JavaScript")
+[![](https://skillicons.dev/icons?i=java)](## "Java")
+[![](https://skillicons.dev/icons?i=kotlin)](## "Kotlin")
+[![](https://skillicons.dev/icons?i=git)](https://git-scm.com/ "Git")
+[![](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/ "SQLite")
+[![](https://skillicons.dev/icons?i=discordbots)](https://discord.dev/)
 
+### ✒️ My IDEs & Editors
+[![](https://skillicons.dev/icons?i=idea)](https://jetbrains.com/idea/ "IntellJ IDEA")
+[![](https://skillicons.dev/icons?i=rider)](https://jetbrains.com/rider/ "Rider")
+[![](https://skillicons.dev/icons?i=pycharm)](https://jetbrains.com/pycharm/ "PyCharm")
+[![](https://skillicons.dev/icons?i=webstorm)](https://jetbrains.com/webstorm/ "WebStorm")
+[![](https://skillicons.dev/icons?i=vim)](https://vim.org)
 
-## 🔨〣 Tools:
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=github,git,gitlab,discord,bash,gradle,maven,idea,vscode,windows,pycharm,ubuntu,kali,linux,redhat,electron,mysql" alt="tools icons" width="700px"/>
-  </a>
-</p>
-<h3>
-  <details>
-    <summary align="left">📊〣 GitHub Statistics</summary>
-    <p align="center">
-      <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=copyandbuild&theme=dark&count_private=true&hide_border=true&line_height=20" alt="Github stats" width="400px"/></a>
-    </p>
-    <p align="center">
-      <a href="#"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=copyandbuild&layout=compact&theme=dark&count_private=true&hide_border=true" alt="Top Languages" width="400px"/></a>
-    </p>
-  </details>
-</h3>
+---
+
+## 🚀 GitHub Stats
+
+[![copyandbuild's GitHub stats](https://github-readme-stats.vercel.app/api?username=copyandbuild&theme=react&count_private=true&show_icons=true&hide=contribs)](https://github.com/copyandbuild)
+
+---
+
+## 🌐 Contact:
+
+- [Discord](https://discord.com/users/1143510845368832111)
+- [Website](https://larrox.xyz/)
+- [Blocktopia - Minecraft-Server](https://blocktopiamc.de/)
+- [NothingMC - Minecraft-Software](https://nothingmc.de/)
+- [Mail](mailto:dev@larrox.xyz?subject=[GitHub]%20Hello%World)
