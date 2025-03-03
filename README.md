@@ -33,7 +33,6 @@ I’m a **Discord Bot** and **Minecraft Plugin/Software Developer** from **Germa
 ## 🌐 Contact:
 
 - [Discord](https://discord.com/users/1143510845368832111)
-- [Website](https://larrox.xyz/)
+- [Website](https://larrox.dev/)
 - [Blocktopia - Minecraft-Server](https://blocktopiamc.de/)
-- [NothingMC - Minecraft-Software](https://nothingmc.de/)
 - [Mail](mailto:dev@larrox.xyz?subject=[GitHub]%20Hello%World)
