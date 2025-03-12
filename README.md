@@ -15,6 +15,8 @@ I’m a **Discord Bot** and **Minecraft Plugin/Software Developer** from **Germa
 [![](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/ "SQLite")
 [![](https://skillicons.dev/icons?i=discordbots)](https://discord.dev/)
 
+---
+
 ### ✒️ My IDEs & Editors
 [![](https://skillicons.dev/icons?i=idea)](https://jetbrains.com/idea/ "IntellJ IDEA")
 [![](https://skillicons.dev/icons?i=rider)](https://jetbrains.com/rider/ "Rider")
@@ -22,17 +24,14 @@ I’m a **Discord Bot** and **Minecraft Plugin/Software Developer** from **Germa
 [![](https://skillicons.dev/icons?i=webstorm)](https://jetbrains.com/webstorm/ "WebStorm")
 [![](https://skillicons.dev/icons?i=vim)](https://vim.org)
 
----
 
 ## 🚀 GitHub Stats
 
 [![copyandbuild's GitHub stats](https://github-readme-stats.vercel.app/api?username=copyandbuild&theme=react&count_private=true&show_icons=true&hide=contribs)](https://github.com/copyandbuild)
 
----
-
 ## 🌐 Contact:
 
 - [Discord](https://discord.com/users/1143510845368832111)
 - [Website](https://larrox.dev/)
-- [Blocktopia - Minecraft-Server](https://blocktopiamc.de/)
+- [BlocktopiaMC - Minecraft-Server](https://blocktopiamc.de/)
 - [Mail](mailto:dev@larrox.xyz?subject=[GitHub]%20Hello%World)
