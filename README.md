@@ -1,6 +1,6 @@
 <img src="https://komarev.com/ghpvc/?username=copyandbuild&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" align="right" />
 
-# 👋 Hi there, I'm **copyandbuild** (Larrox)
+# 👋 Hi there, I'm **Larrox**
 
 I’m a **Discord Bot** and **Minecraft Plugin/Software Developer** from **Germany**. I create amazing bots, plugins, and software solutions to make your gaming experience better!
 
