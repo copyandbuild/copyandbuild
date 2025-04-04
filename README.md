@@ -33,5 +33,4 @@ I’m a **Discord Bot** and **Minecraft Plugin/Software Developer** from **Germa
 
 - [Discord](https://discord.com/users/1143510845368832111)
 - [Website](https://larrox.dev/)
-- [BlocktopiaMC - Minecraft-Server](https://blocktopiamc.de/)
 - [Mail](mailto:dev@larrox.xyz?subject=[GitHub]%20Hello%World)
