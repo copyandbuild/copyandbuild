@@ -1,36 +1,19 @@
-<img src="https://komarev.com/ghpvc/?username=copyandbuild&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" align="right" />
 
-# 👋 Hi there, I'm **Larrox**
 
-I’m a **Discord Bot** and **Minecraft Plugin/Software Developer** from **Germany**. I create amazing bots, plugins, and software solutions to make your gaming experience better!
+# 👋 Hi, I’m **Larrox** <img src="https://komarev.com/ghpvc/?username=copyandbuild&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" align="right" />
 
-## 💻 Technologies & Tools
-[![](https://skillicons.dev/icons?i=py)](https://python.org/ "Python")
-[![](https://skillicons.dev/icons?i=html)](## "HTML")
-[![](https://skillicons.dev/icons?i=css)](## "CSS")
-[![](https://skillicons.dev/icons?i=js)](## "JavaScript")
-[![](https://skillicons.dev/icons?i=java)](## "Java")
-[![](https://skillicons.dev/icons?i=kotlin)](## "Kotlin")
-[![](https://skillicons.dev/icons?i=git)](https://git-scm.com/ "Git")
-[![](https://skillicons.dev/icons?i=sqlite)](https://sqlite.org/ "SQLite")
-[![](https://skillicons.dev/icons?i=discordbots)](https://discord.dev/)
+I’m a passionate **Discord Bot**, **Minecraft Plugin**, and **Software Developer** based in **Germany**. I love crafting efficient, scalable, and engaging applications to enhance gaming and online communities.
+
+## 🔧 Technologies & Tools
+
+| Backend / Languages | Frontend / Web | DevOps / DB | Tools & Editors |
+|---------------------|----------------|-------------|------------------|
+| <img src="https://skillicons.dev/icons?i=py" height="40" /> <img src="https://skillicons.dev/icons?i=java" height="40" /> <img src="https://skillicons.dev/icons?i=kotlin" height="40" /> | <img src="https://skillicons.dev/icons?i=html" height="40" /> <img src="https://skillicons.dev/icons?i=css" height="40" /> <img src="https://skillicons.dev/icons?i=js" height="40" /> | <img src="https://skillicons.dev/icons?i=sqlite" height="40" /> <img src="https://skillicons.dev/icons?i=git" height="40" /> <img src="https://skillicons.dev/icons?i=discordbots" height="40" /> | <img src="https://skillicons.dev/icons?i=idea" height="40" /> <img src="https://skillicons.dev/icons?i=pycharm" height="40" /> <img src="https://skillicons.dev/icons?i=rider" height="40" /> <img src="https://skillicons.dev/icons?i=webstorm" height="40" /> <img src="https://skillicons.dev/icons?i=vim" height="40" /> |
 
 ---
 
-### ✒️ My IDEs & Editors
-[![](https://skillicons.dev/icons?i=idea)](https://jetbrains.com/idea/ "IntellJ IDEA")
-[![](https://skillicons.dev/icons?i=rider)](https://jetbrains.com/rider/ "Rider")
-[![](https://skillicons.dev/icons?i=pycharm)](https://jetbrains.com/pycharm/ "PyCharm")
-[![](https://skillicons.dev/icons?i=webstorm)](https://jetbrains.com/webstorm/ "WebStorm")
-[![](https://skillicons.dev/icons?i=vim)](https://vim.org)
+## 🌐 Contact Me
 
-
-## 🚀 GitHub Stats
-
-[![copyandbuild's GitHub stats](https://github-readme-stats.vercel.app/api?username=copyandbuild&theme=react&count_private=true&show_icons=true&hide=contribs)](https://github.com/copyandbuild)
-
-## 🌐 Contact:
-
-- [Discord](https://discord.com/users/1143510845368832111)
-- [Website](https://larrox.dev/)
-- [Mail](mailto:dev@larrox.xyz?subject=[GitHub]%20Hello%World)
+- **Discord**: [`larroxx`](https://discord.com/users/1143510845368832111)
+- **Website**: [https://larrox.dev](https://larrox.dev/)
+- **Email**: [dev@larrox.xyz](mailto:dev@larrox.xyz?subject=[GitHub]%20Hello%20World)
